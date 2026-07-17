@@ -220,4 +220,4 @@ Penggunaan AI paling bermanfaat bukan saat kita tidak tahu cara mengerjakan sesu
 ---
 
 *Dokumen ini merupakan bukti transparansi penggunaan AI sesuai kebijakan akademik.*
-*Randy Ramadhan & Wulan Purnamasari — Universitas Al Azhar Indonesia — 2026*
+*Randy Ramadhan, Wulan Purnamasari, Bily Nur Sepdiansyah, Ibrahim Hadi Wibisono — Universitas Al Azhar Indonesia — 2026*
