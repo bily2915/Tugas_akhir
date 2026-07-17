@@ -2,7 +2,7 @@
 demo_presentasi.py
 ==================
 Script Demo Otomatis untuk Presentasi Fase 6
-Aplikasi Kasir Warung — Randy Ramadhan & Wulan Purnamasari
+Aplikasi Kasir Warung — Randy Ramadhan, Wulan Purnamasari, Bily Nur Sepdiansyah, Ibrahim Hadi Wibisono
 Universitas Al Azhar Indonesia — Semester Genap 2025/2026
 
 Jalankan: python demo_presentasi.py
