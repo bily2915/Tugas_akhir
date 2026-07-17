@@ -8,8 +8,8 @@
 | Nama Mahasiswa 1 | Randy Ramadhan |
 | :---- | :---- |
 | **Nama Mahasiswa 2** | Wulan Purnamasari |
-| **Nama Mahasiswa 3** | Billy Syahputra |
-| **Nama Mahasiswa 4** | Ibrahim Hadi |
+| **Nama Mahasiswa 3** | Bily Nur Sepdiansyah |
+| **Nama Mahasiswa 4** | Ibrahim Hadi Wibisono |
 | **Universitas** | Universitas Al Azhar Indonesia |
 | **Mata Kuliah** | Algoritma dan Pemrograman |
 | **Semester** | Genap 2025/2026 |
